@@ -12,7 +12,7 @@
 * **Private & Offline:** Zero telemetry, zero analytics, and zero network connections. All profiles are stored locally on your machine.
 
 ## Download
-Available on the **Microsoft Store** *(link coming soon)*.
+Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PJH332R2WKG).
 
 ## Support & Issues
 Have a bug report, feature request, or multi-monitor edge case? Open an issue in the [Issues](../../issues) tab or reach out to `DogeCoding@outlook.com`.
